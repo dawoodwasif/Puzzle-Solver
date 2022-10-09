@@ -7,3 +7,6 @@ First, divide each image into 4 equal rectangular pieces. Then pass each piece t
 
 ## Instruction
 Model weights are provided in model.h5. Use the code in submission.py of make prediction function in Prediction class to run model on image path. Them ain.ipynb notebook has the main training code which is reproducible.
+
+Model Weights: https://drive.google.com/drive/folders/1-qw3nWjxU_f9X2sczc49I-tUTsesJs5o?usp=sharing
+Dataset: https://drive.google.com/file/d/1tQTwXA3Z_ISTAZPScEz8baUYqgafRtpQ/view
